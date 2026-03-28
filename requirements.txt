@@ -2,4 +2,4 @@ pandas
 torch
 torchvision
 scikit-learn
-streamlit
+streamlit==1.32.0
